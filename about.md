@@ -3,8 +3,8 @@ layout: page
 title: About
 permalink: /about/
 ---
-*Polar Bear* is a lightweight and customisable Jekyll Theme.
+Nicholas is an 18 year old Singapore Student who aspires to bring positivty to the world.
 
-* Author: Camille Diez
-* Github: http://github.com/diezcami
-* Portfolio: http://diezcami.github.io
+* Author: Nicholas Chen
+* Github: http://github.com/amperific
+* Portfolio: http://rektangle.github.io
